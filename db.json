@@ -1,0 +1,270 @@
+{
+    "tShirtSizeChart": {
+        "clothingType": "TShirt",
+        "womenSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            }
+            
+        ],
+        "menSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            }
+        ],
+        "kidSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0
+            }
+        ]
+    },
+    "shirtSizeChart": {
+        "clothingType": "Shirt",
+        "womenSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            }
+        ],
+        "menSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            }
+        ],
+        "kidSizes": [
+            {
+                "sizeLabel": "s",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "shoulderWidth": 0.0,
+                "torsoHeight": 0.0,
+                "sleeveLength": 0.0
+            }
+        ]
+    },
+    "trousersSizeChart": {
+        "clothingType": "Trousers",
+        "womenSizes": [
+            {
+                "sizeLabel": "s",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            }
+        ],
+        "menSizes": [
+            {
+                "sizeLabel": "s",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            }
+        ],
+        "kidSizes": [
+            {
+                "sizeLabel": "s",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "m",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "l",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            },
+            {
+                "sizeLabel": "xxl",
+                "hipsWidth": 0.0,
+                "legLength": 0.0
+            }
+        ]
+    }
+}
