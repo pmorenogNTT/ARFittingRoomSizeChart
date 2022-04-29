@@ -4,56 +4,56 @@
         "womenSizes": [
             {
                 "sizeLabel": "s",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 44.45,
+                "torsoHeight": 64.77
             },
             {
                 "sizeLabel": "m",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 49.53,
+                "torsoHeight": 67.31
             },
             {
                 "sizeLabel": "l",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 52.07,
+                "torsoHeight": 70.485
             },
             {
                 "sizeLabel": "xl",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 59.69,
+                "torsoHeight": 73.66
             },
             {
                 "sizeLabel": "xxl",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 64.77,
+                "torsoHeight": 74.93
             }
             
         ],
         "menSizes": [
             {
                 "sizeLabel": "s",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 48.26,
+                "torsoHeight": 73.39
             },
             {
                 "sizeLabel": "m",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 52.07,
+                "torsoHeight": 76.2
             },
             {
                 "sizeLabel": "l",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 57.15,
+                "torsoHeight": 78.74
             },
             {
                 "sizeLabel": "xl",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 61.595,
+                "torsoHeight": 81.28
             },
             {
                 "sizeLabel": "xxl",
-                "shoulderWidth": 0.0,
-                "torsoHeight": 0.0
+                "shoulderWidth": 67.495,
+                "torsoHeight": 82.55
             }
         ],
         "kidSizes": [
